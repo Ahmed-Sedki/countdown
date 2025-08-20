@@ -1,0 +1,5 @@
+{
+  "framework": null,
+  "outputDirectory": ".",
+  "routes": [{ "src": "/(.*)", "dest": "/countdown_timer_with_ms.html" }]
+}
